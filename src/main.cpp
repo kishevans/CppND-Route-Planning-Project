@@ -65,7 +65,7 @@ int main(int argc, const char **argv)
     std::cout<<"Enter Ending X (0 -100) : "<<std::endl;
     std::cin>>end_x;
     
-    std::cout<<"Enter Ending X (0 -100) : "<<std::endl;
+    std::cout<<"Enter Ending Y (0 -100) : "<<std::endl;
     std::cin>>end_y;
 
     // Build Model.
